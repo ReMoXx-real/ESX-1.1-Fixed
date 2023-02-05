@@ -10,6 +10,7 @@ Hier findet ihr die gefixte Version von ESX 1.1!
 Ich habe alle Scripts überarbeitet, sodass man es jetzt ohne Probleme nutzen kann! Ich habe lange daran gesessen und ich bitte euch deshalb, nicht zu sagen als ob ihr es überarbeitet hättet! 
 
 
+
 ENGLISH:
 
 Here you can find the fixed version of ESX 1.1!
